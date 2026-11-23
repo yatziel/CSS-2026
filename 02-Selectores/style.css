@@ -1,0 +1,23 @@
+/* 
+
+    Sintaxis de CSS 
+
+    Consta de 3 elementos:
+
+    selector {
+        propiedad: valor;
+        ... 
+    }
+    
+    selector 👉 elemento al que le vamos a aplicar estilos.
+    propiedad 👉 es la caractarística que se define en este elemento.
+    valor 👉 el estilo que se aplica a la propiedad
+
+    IMPORTANTE: el conjunto de estos tres elementos se conoce como Regla de CSS.
+
+*/
+
+body {
+    background-color: blue;
+    color: white;
+}
